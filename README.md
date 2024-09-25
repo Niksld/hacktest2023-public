@@ -37,7 +37,7 @@ python3 ./src/main.py --offline
 ```
 
 ## Note
-Od vydání hry se změnily určité funkce a proto nyní hra __nefunguje__ __ správně__. Tento repozitář slouží pro publikaci soukromého kódu z doby vydání, když hra fungovala správně.
+Od vydání hry se změnily určité funkce a proto nyní hra __nefunguje správně__. Tento repozitář slouží pro publikaci soukromého kódu z doby vydání, když hra fungovala správně.
 
 ## Zabalení pomocí PyInstalleru
 
