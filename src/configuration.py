@@ -28,7 +28,7 @@ parser.add_argument("--port", "--server-port", help=f"Port serveru, který se po
 args = vars(parser.parse_known_args()[0])
 
 #argumenty z příkazové řádky
-OFFLINE_MODE = args["offline"]
+OFFLINE_MODE = True
 USERFILE_RESET = args["reset_save"]
 SERVER_IP = args["ip"]
 SERVER_PORT = args["port"]

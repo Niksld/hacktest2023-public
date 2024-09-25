@@ -6,7 +6,7 @@ from Delay import Delay
 class GameSession:
     """Relace hry, nadřazená oknům. Zajišťuje postup mezi okny, relací, lokálním souborem a serverem."""
     def __init__(self):
-        self.offline_mode = OFFLINE_MODE
+        self.offline_mode = True
         self.attendees = ATTENDEES
 
         self.windows = {}
