@@ -1,0 +1,40 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Spustit offline",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}${pathSeparator}src${pathSeparator}main.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}${pathSeparator}src",
+            "args": ["--offline"]
+        },
+        {
+            "name": "Spustit offline a smazat save",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}${pathSeparator}src${pathSeparator}main.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}${pathSeparator}src",
+            "args": ["--offline", "--delete-save"]
+        },
+        {
+            "name": "Spustit",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}${pathSeparator}src${pathSeparator}main.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}${pathSeparator}src"
+        },
+        {
+            "name": "Spustit a smazat save",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}${pathSeparator}src${pathSeparator}main.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}${pathSeparator}src",
+            "args": ["--delete-save"]
+        },
+    ]
+}

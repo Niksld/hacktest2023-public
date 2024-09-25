@@ -1,0 +1,307 @@
+{
+"desktop_icons": [
+    {"name": "Internet", "tag": "internet", "image":"internet", "app":"internet", "appdata":"", "unlock": "################", "pos":[0,0]},
+    {"name": "Datcord Messenger", "tag": "messenger", "image": "messenger", "app":"msg", "appdata":"", "unlock":"################", "pos":[1,0]},
+    {"name": "Terminál", "tag": "terminal", "image": "terminal", "app":"terminal", "appdata":"", "unlock":"################", "pos":[2,0]},
+    {"name": "Kreslení", "tag": "paint", "image": "paint", "app":"paint", "appdata":"", "unlock":"################", "pos":[3,0]},
+    {"name": "Abode Invertor", "tag": "invertor", "image": "invertor", "app":"invertor", "appdata":":]", "unlock":"################", "pos":[4,0]},
+    {"name": "Průzkumník souborů", "tag": "explorer", "image": "explorer", "app":"explorer", "appdata":"", "unlock":"################", "pos":[5,0]},
+    {"name": "Nová složka (2)", "tag": "nova_slozka2", "image": "explorer", "app":"explorer", "appdata":"/Nová_složka_(2)", "unlock":"################", "pos":[2,3]},
+    {"name": "wifiny.txt", "tag": "novy_soubor", "image": "text", "app":"text", "appdata":"wifiny.txt", "unlock":"################", "pos":[-2,-5]},
+    {"name": "virus-studio-navod.txt", "tag": "novy_soubor2", "image": "text", "app":"text", "appdata":"virus-studio-navod.txt", "unlock":"#1##############", "pos":[0,1]},
+    {"name": "Virus Studio", "tag": "studio", "image": "studio", "app":"studio", "appdata":"", "unlock":"#2##############", "pos":[1,1]},
+    {"name": "Export-20660214-x86.exe", "tag": "virus", "image": "virus", "app":"studio", "appdata":"virus", "unlock":"##########1#####", "pos":[3,1]},
+    {"name": "Kalkulačka", "tag": "calc", "image": "calc", "app":"calc", "appdata":"", "unlock":"################", "pos":[2,1]}
+    ],
+"images": [
+    {"name": "start", "parent": "taskbar", "image": "start"},
+    {"name": "wallpaper", "parent": "desktop", "image": "wallpaper"},
+    {"name": "wallpaper-blur", "parent": "desktop", "image": "wallpaper-blur"},
+    {"name": "wallpaper-bsod", "parent": "desktop", "image": "wallpaper-bsod"},
+    {"name": "wallpaper-glitch0", "parent": "desktop", "image": "wallpaper-glitch0"},
+    {"name": "wallpaper-glitch1", "parent": "desktop", "image": "wallpaper-glitch1"},
+    {"name": "wallpaper-glitch2", "parent": "desktop", "image": "wallpaper-glitch2"},
+    {"name": "wallpaper-glitch3", "parent": "desktop", "image": "wallpaper-glitch3"},
+    {"name": "wallpaper-glitch4", "parent": "desktop", "image": "wallpaper-glitch4"},
+    {"name": "wallpaper-glitch5", "parent": "desktop", "image": "wallpaper-glitch5"},
+    {"name": "glitch0", "parent": "desktop", "image": "glitch0"},
+    {"name": "glitch1", "parent": "desktop", "image": "glitch1"},
+    {"name": "glitch2", "parent": "desktop", "image": "glitch2"},
+    {"name": "glitch3", "parent": "desktop", "image": "glitch3"},
+    {"name": "glitch4", "parent": "desktop", "image": "glitch4"},
+    {"name": "glitch5", "parent": "desktop", "image": "glitch5"},
+    {"name": "wifi", "parent": "taskbar", "image": "wifi"},
+    {"name": "no_internet", "parent": "taskbar", "image": "no_internet"},
+    {"name": "notifications", "parent": "taskbar", "image": "notifications"},
+    {"name": "notifications-disabled", "parent": "taskbar", "image": "no_notifications"},
+    {"name": "wifi/0", "parent": "wifi", "image": "wifi/0"},
+    {"name": "wifi/1", "parent": "wifi", "image": "wifi/1"},
+    {"name": "wifi/2", "parent": "wifi", "image": "wifi/2"},
+    {"name": "wifi/3", "parent": "wifi", "image": "wifi/3"},
+    {"name": "ethernet", "parent": "wifi", "image": "wifi/ethernet"},
+    {"name": "404", "parent": "internet", "image": "web/404"},
+    {"name": "gogel.gg", "parent": "internet", "image": "web/gogel"},
+    {"name": "xss-space.yu", "parent": "internet", "image": "web/xss"},
+    {"name": "null", "parent": "internet", "image": "web/404"},
+    {"name": "home", "parent": "internet", "image": "web/home"},
+    {"name": "logo", "parent": "msg", "image": "messenger-big"},
+    {"name": "turn0e", "parent": "ftp_daemon", "image": "pipes/turn0e"},
+    {"name": "turn1e", "parent": "ftp_daemon", "image": "pipes/turn1e"},
+    {"name": "turn2e", "parent": "ftp_daemon", "image": "pipes/turn2e"},
+    {"name": "turn3e", "parent": "ftp_daemon", "image": "pipes/turn3e"},
+    {"name": "straight0e", "parent": "ftp_daemon", "image": "pipes/straight0e"},
+    {"name": "straight1e", "parent": "ftp_daemon", "image": "pipes/straight1e"},
+    {"name": "turn0f", "parent": "ftp_daemon", "image": "pipes/turn0f"},
+    {"name": "turn1f", "parent": "ftp_daemon", "image": "pipes/turn1f"},
+    {"name": "turn2f", "parent": "ftp_daemon", "image": "pipes/turn2f"},
+    {"name": "turn3f", "parent": "ftp_daemon", "image": "pipes/turn3f"},
+    {"name": "straight0f", "parent": "ftp_daemon", "image": "pipes/straight0f"},
+    {"name": "straight1f", "parent": "ftp_daemon", "image": "pipes/straight1f"},
+    {"name": "source", "parent": "ftp_daemon", "image": "pipes/source"},
+    {"name": "destinatione", "parent": "ftp_daemon", "image": "pipes/destinatione"},
+    {"name": "destinationf", "parent": "ftp_daemon", "image": "pipes/destinationf"},
+    {"name": "logo", "parent": "title", "image": "hacktest-logo"},
+    {"name": "sb1", "parent": "sandbox_exploit", "image": "pexeso/sand1"},
+    {"name": "sb2", "parent": "sandbox_exploit", "image": "pexeso/sand2"},
+    {"name": "sb3", "parent": "sandbox_exploit", "image": "pexeso/sand3"},
+    {"name": "sb4", "parent": "sandbox_exploit", "image": "pexeso/sand4"},
+    {"name": "sb5", "parent": "sandbox_exploit", "image": "pexeso/sand5"},
+    {"name": "sb6", "parent": "sandbox_exploit", "image": "pexeso/sand6"},
+    {"name": "sb7", "parent": "sandbox_exploit", "image": "pexeso/sand7"},
+    {"name": "sb8", "parent": "sandbox_exploit", "image": "pexeso/sand8"},
+    {"name": "sb9", "parent": "sandbox_exploit", "image": "pexeso/sand9"},
+    {"name": "sb10", "parent": "sandbox_exploit", "image": "pexeso/sand10"},
+    {"name": "sbempty", "parent": "sandbox_exploit", "image": "pexeso/empty"},
+    {"name": "Scr4p3r", "parent": "messenger", "image": "datcord/Scr4p3r"},
+    {"name": "CrystalFeathers", "parent": "messenger", "image": "datcord/CrystalFeathers"},
+    {"name": "Maminka", "parent": "messenger", "image": "datcord/Maminka"},
+    {"name": "B1tt3r", "parent": "messenger", "image": "datcord/B1tt3r"},
+    {"name": "cam0", "parent": "messenger", "image": "datcord/cam"},
+    {"name": "cam1", "parent": "messenger", "image": "datcord/nocam"},
+    {"name": "mic0", "parent": "messenger", "image": "datcord/mic"},
+    {"name": "mic1", "parent": "messenger", "image": "datcord/nomic"},
+    {"name": "sound0", "parent": "messenger", "image": "datcord/sound"},
+    {"name": "sound1", "parent": "messenger", "image": "datcord/nosound"},
+    {"name": "settings", "parent": "messenger", "image": "datcord/settings"},
+    {"name": "square", "parent": "paint", "image": "paint/square"},
+    {"name": "dot", "parent": "paint", "image": "paint/dot"},
+    {"name": "erase", "parent": "paint", "image": "paint/erase"},
+    {"name": "clear", "parent": "paint", "image": "paint/clear"},
+    {"name": "xss-guide", "parent": "studio", "image": "studio-xss-guide"},
+    {"name": "windblows", "parent": "start", "image": "windblows"},
+    {"name": "roman", "parent": "messenger", "image": "datcord/roman"},
+    {"name": "roman_big", "parent": "messenger", "image": "datcord/roman_big"},
+    {"name": "cloud", "parent": "start", "image": "cloud"},
+    {"name": "update", "parent": "start", "image": "update"},
+    {"name": "web-browsing", "parent": "start", "image": "web-browsing"}
+
+],
+"networks": [
+    {"name": "isswf1", "password": "xstudent25isswf100", "strength": 0},
+    {"name": "isswf2", "password": "xucitele79isswf200", "strength": 2},
+    {"name": "McSanders' Restaurant", "password": "hamburger", "strength": 1},
+    {"name": "PFREE", "password": "xfreewifi56p300", "strength": 2},
+    {"name": "@jsem$%frajer", "password": "chlapak", "strength": 3}
+],
+"text_files": [
+    {"name": "wifiny.txt", "content": "XXXXXXXXXXXXXXXXXXXXXXXX\nX NETZERO HACKER GROUP X\nXXXXXXXXXXXXXXXXXXXXXXXX\n\nHesla Wi-Fi sítí v oblasti Brno-Královo Pole:\n\nSSID: Jimmynet\nZabezpečení: WPA2\nHeslo: 1juXAluJuX8y\n\nSSID: McSanders' Restaurant\nZabezpečení: WPA2\nHeslo: hamburger\n\nSSID: omega\nZabezpečení: WPA3\nHeslo: Lanovka123"},
+    {"name": "virus-studio-navod.txt", "content": "PRO ZÁJEMCE:\n\nPrávě jsme zjistili kritickou vulnerabilitu v prohlížeči WaterWhale. Plánujeme ji zneužít pro zničení záznamů o balancích na všech bankovních účtech a tím nastolením čistého chaosu.\n\nOdměna za ten první vir, který zneužije této vulnerability, je $18,000.000.000\n\nKomponenty viru jsme přibalili do naší známé aplikace VirusStudio. Pro stažení stačí do terminálu zadat tyto dva příkazy:\n\napp source src.hackapp.net\napp install virusstudio"}
+],
+"websites": {
+    "gogel.gg": {"name": "Gogel.gg", "size": [900,500], "elements": ["web.gogel.search", "web.gogel.searchbtn"]},
+    "xss-space.yu": {"name": "XSS Space FlopBlog", "size": [900,1500], "elements": []}
+},
+"notifications": [
+    {"progressmin": "0###############", "progressmax": "1###############", "app": "Systém", "content": "Připojení k internetu selhalo. Zkontrolujte připojení k síti a zkuste to znovu.", "important": true},
+    {"progressmin": "1###############", "progressmax": "#1##############", "app": "Night City Banking Services", "content": "Máte 41 nezaplacených složenek", "important": false},
+    {"progressmin": "#1##############", "progressmax": "#2##############", "app": "Datcord Messenger", "content": "Stažený soubor: ~/Plocha/virus-studio-navod.txt", "important": false},
+    {"progressmin": "##2#############", "progressmax": "##3#############", "app": "Tip", "content": "V menu vlevo dole si můžeš zobrazit dosažený postup a počet získaných bodů.", "important": false},
+    {"progressmin": "##########1#####", "progressmax": "##########3#####", "app": "Virus Studio", "content": "Export dokončen: ~/Plocha/Export-20660214-x86.exe", "important": false},
+    {"progressmin": "##########2#####", "progressmax": "##########3#####", "app": "Antivenom Antivirus", "content": "Varování: Zjištěn podezřelý proces 'Export-20660214-x86.exe'!", "important": true},
+    {"progressmin": "##########2#####", "progressmax": "##########3#####", "app": "Antivenom Antivirus", "content": "Pro základní ochranu systému přejděte na licenci Antivenom Antivirus Premium.", "important": true}
+
+],
+"conversations": {
+    "Scr4p3r": {"image": "messenger.image-Scr4p3r", "progress": "################", "messages": [
+        {"progressmin": "1###############", "progressmax": "#1##############", "sender": true, "image": null, "event": null, "text":"hej, konečně seš online"},
+        {"progressmin": "1###############", "progressmax": "#1##############", "sender": true, "image": null, "event": null, "text":"tomu neuvěříš, teď týpci našli novej exploit"},
+        {"progressmin": "1###############", "progressmax": "#1##############", "sender": true, "image": null, "event": null, "text":"musíš mi co nejdřív udělat vir, hned ti posílám návod, jak začít"},
+        {"progressmin": "1###############", "progressmax": "#1##############", "sender": true, "image": null, "event": "virus-studio-navod.txt", "text":"<1 příloha>"},
+        {"progressmin": "11##############", "progressmax": "#2##############", "sender": false, "image": null, "event": null, "text":"Ok, mám to stažený, tak počkej"},
+        {"progressmin": "11##############", "progressmax": "#2##############", "sender": true, "image": null, "event": null, "text":"prostě opiš ty příkazy co tam jsou"},
+        {"progressmin": "11##############", "progressmax": "#2##############", "sender": true, "image": null, "event": null, "text":"kdyžtak použij příkaz \"help\" a napíše ti to všechny příkazy"},
+        {"progressmin": "11##############", "progressmax": "#2##############", "sender": true, "image": null, "event": null, "text":"třeba app source <url> (ty <> se tam nepíšou, znamená to, že to je povinnej parametr)"},
+        {"progressmin": "11##############", "progressmax": "#2##############", "sender": false, "image": null, "event": null, "text":"Díkec"},
+        {"progressmin": "#20#############", "progressmax": "##1#############", "sender": true, "image": null, "event": null, "text":"už to máš?"},
+        {"progressmin": "#20#############", "progressmax": "##1#############", "sender": false, "image": null, "event": null, "text":"Jo"},
+        {"progressmin": "#20#############", "progressmax": "##1#############", "sender": true, "image": null, "event": null, "text":"super... snad s tím nebyl problém"},
+        {"progressmin": "#20#############", "progressmax": "##1#############", "sender": true, "image": null, "event": null, "text":"teďka budeš dělat součásti toho viru"},
+        {"progressmin": "#20#############", "progressmax": "##1#############", "sender": true, "image": null, "event": null, "text":"můžeš je dělat v jakýmkoliv pořadí"},
+        {"progressmin": "#20#############", "progressmax": "##1#############", "sender": true, "image": null, "event": null, "text":"tak ať to jde!"},
+        {"progressmin": "###########1####", "progressmax": "#######1########", "sender": true, "image": null, "event": null, "text":"no super, tak počítej"},
+        {"progressmin": "#21#############", "progressmax": "##2#############", "sender": true, "image": null, "event": null, "text":"vidím, že už máš první část udělanou, skvělá práce"},
+        {"progressmin": "#23#############", "progressmax": "##4#############", "sender": true, "image": null, "event": null, "text":"už máš hotovou půlku, jen tak dál"},
+        {"progressmin": "#25#############", "progressmax": "##6#############", "sender": true, "image": null, "event": null, "text":"jde ti to skvěle! už chybí jenom jedna část"},
+        {"progressmin": "#25#############", "progressmax": "##6#############", "sender": false, "image": null, "event": null, "text":"Dík"},
+        {"progressmin": "#27#############", "progressmax": "##########1#####", "sender": true, "image": null, "event": null, "text":"hotovo!! rychle to vyexportuj a pošli mi to"},
+        {"progressmin": "##########1#####", "progressmax": "##########2#####", "sender": true, "image": null, "event": null, "text":"měl bys to mít normálně na ploše"},
+        {"progressmin": "##########2#####", "progressmax": "##########3#####", "sender": true, "image": null, "event": null, "text":"doufám že jsi to právě neotevřel?"},
+        {"progressmin": "##########2#####", "progressmax": "##########3#####", "sender": false, "image": null, "event": null, "text":"Aha"},
+        {"progressmin": "##########2#####", "progressmax": "##########3#####", "sender": false, "image": null, "event": null, "text":"Jejda"}
+    ]},
+
+    "B1tt3r": {"image": "messenger.image-B1tt3r", "progress": "################", "messages": [
+    {"progressmin": "################", "progressmax": "0000000000000000", "sender": true, "image": null, "event": null, "text":"AHOJ ROMANE"},
+    {"progressmin": "################", "progressmax": "0000000000000000", "sender": true, "image": null, "event": null, "text":"JSEM TVŮJ VELKEJ FANDA"},
+    {"progressmin": "################", "progressmax": "0000000000000000", "sender": true, "image": null, "event": null, "text":"Viděl jsem jak jsi dokázal hacknout toho trapáka 5harpa"},
+    {"progressmin": "################", "progressmax": "0000000000000000", "sender": true, "image": null, "event": null, "text":"Jsi docela šéf, respektuju"},
+    {"progressmin": "################", "progressmax": "0000000000000000", "sender": false, "image": null, "event": null, "text":"Ona to byla docela hračka, 5harp neměl ani zapnutý firewall"},
+    {"progressmin": "################", "progressmax": "0000000000000000", "sender": true, "image": null, "event": null, "text":"NO TO NEMYSLÍŠ VÁŽNĚ XDD"},
+    {"progressmin": "################", "progressmax": "0000000000000000", "sender": true, "image": null, "event": null, "text":"TO JE MAMLAS"}
+    ]},
+
+    "CrystalFeathers": {"image": "messenger.image-CrystalFeathers", "progress": "################", "messages": [
+        {"progressmin": "################", "progressmax": "0000000000000000", "sender": false, "image": null, "event": null, "text":"Ahojky :)"},
+        {"progressmin": "################", "progressmax": "0000000000000000", "sender": false, "image": null, "event": null, "text":"Jsi tu? Viděl jsem, jak jsi včera hrála Lížu Kredenc"},
+        {"progressmin": "################", "progressmax": "0000000000000000", "sender": false, "image": null, "event": null, "text":"To se moc často nestává, aby takovou hru hrála holka :PP"},
+        {"progressmin": "################", "progressmax": "0000000000000000", "sender": false, "image": null, "event": null, "text":"Máš dneska čas? Když je ten Valentýn..."},
+        {"progressmin": "################", "progressmax": "0000000000000000", "sender": false, "image": null, "event": null, "text":"Prosím <3"},
+        {"progressmin": "################", "progressmax": "0000000000000000", "sender": true, "image": null, "event": null, "text":"mam kluka"},
+        {"progressmin": "################", "progressmax": "0000000000000000", "sender": false, "image": null, "event": "blocked", "text":""}
+    ]},
+
+    "Maminka <3": {"image": "messenger.image-Maminka", "progress": "################", "messages": [
+        {"progressmin": "################", "progressmax": "0000000000000000", "sender": true, "image": null, "event": null, "text":"Hezkého Valentýna!!"},
+        {"progressmin": "################", "progressmax": "0000000000000000", "sender": false, "image": null, "event": null, "text":"Díky mami"},
+        {"progressmin": "################", "progressmax": "0000000000000000", "sender": true, "image": null, "event": null, "text":"Tak co, už sis našel nějakou slečnu?"},
+        {"progressmin": "################", "progressmax": "0000000000000000", "sender": false, "image": null, "event": null, "text":"Mami to nemůžeš na mě takhle vyhrknout"},
+        {"progressmin": "################", "progressmax": "0000000000000000", "sender": true, "image": null, "event": null, "text":"A to se nemůžu ani zeptat?"},
+        {"progressmin": "################", "progressmax": "0000000000000000", "sender": false, "image": null, "event": null, "text":"Ale mami, jsem Ajťák"},
+        {"progressmin": "################", "progressmax": "0000000000000000", "sender": true, "image": null, "event": null, "text":"Romanku to by přece nemělo mít vliv"},
+        {"progressmin": "################", "progressmax": "0000000000000000", "sender": true, "image": null, "event": null, "text":"Ale mohl bys chodit vic ven, to je pravda..."},
+        {"progressmin": "################", "progressmax": "0000000000000000", "sender": false, "image": null, "event": null, "text":"Mami... jsem Ajťák -.-"}
+    ]}
+},
+"studio" : {
+    "component_details" : {
+        "ftp_daemon" : [
+            {"body":"Virus potřebuje nějaký způsob, jak odeslat nalezené citlivé informace zpět na tvůj server. Pro urychlení odeslání dat je třeba najít optimální cestu v síti.\n\nOtáčej kabely kliknutím pro propojení zdroje na levé straně s cílem na pravé straně."},
+            {"difficulty": "Obtížnost: Těžká (3 b)"},
+            {"image": null}
+        ],
+        "file_targetter" : [
+            {"body":"Pro ušetření úložiště a výkonu se virus zaměřuje pouze na soubory, které obsahují citlivá nebo užitečná data.\n\nCo nejrychleji napiš a potvrď (Enter) názvy cílů, které uvidíš. Pozor - pokud se ti nepodaří napsat cíle včas, budeš muset začít znovu."},
+            {"difficulty": "Obtížnost: Střední (2 b)"},
+            {"image": null}
+        ],
+        "anti_av" : [
+            {"body":"Antivirus je užitečný nástroj pro ochranu počítače, pro tebe to ale znamená zkázu. Aby vir dělal svoji práci, je třeba se před ním skrýt.\n\nZneškodni procesy antiviru. Šipkami se pohybuješ a mezerníkem střílíš.\n\nZnič procesy antiviru, než se dostanou za hranici detekce viru!"},
+            {"difficulty": "Obtížnost: Lehká (1 b)"},
+            {"image": null}
+        ],
+        "xss_exploit" : [
+            {"body":"Šifrovací algoritmy slouží k zabezpečení dat. Jsou však k ničemu, pokud na stránku má přístup někdo, kdo by neměl.\nNaštěstí ty přesně o jedné takové vychytávce víš a můžeš toho zneužít.\n\nTlačítka tvoří bludiště s neviditelnými stěnami. Propoj zvýrazněná tlačítka bez překročení stěn bludiště.\n\nPro manuál navštiv v prohlížeči adresu xss-space.yu"},
+            {"difficulty": "Obtížnost: Těžká (3 b)"},
+            {"image": "studio.image-xss-guide"}
+        ],
+        "sandbox_exploit" : [
+            {"body":"Webové prohlížeče spouští skripty v kontejneru, aby skript neměl přístup k souborům v počítači. Tento komponent zneužije nově nalezenou chybu, aby se dostal mimo kontejner a umožnil tak viru přístup k souborům v celém počítači.\n\nKlikáním na tlačítka hledej páry (pexeso)."},
+            {"difficulty": "Obtížnost: Střední (2 b)"},
+            {"image": null}
+        ],
+        "mail_handler" : [
+            {"body":"Tento komponent má za úkol rozeslat vir na všechny kontakty v poštovním adresáři uživatele.\nPro jeho správnou funkčnost je potřeba ale zapojit algoritmus správně, aby vyhledával adresy co nejeefektivněji.\n\nPropoj matematické příklady se správnými výsledky"},
+            {"difficulty": "Obtížnost: Jednoduchá (1 b)"},
+            {"image": null}
+        ]
+    }
+},
+
+"sources" : {
+    "src.hackapp.net" : ["virusstudio"],
+    "srandy.scr4p3r0va-banda.cz" : ["neofetch"]
+},
+"file_targetter_words": ["virus", "hacktest", "hacker", "crypto", "exploit", "malware", "worm", "ransomware", "attack", "mitm", "botnet", "homebrew", "ai", "ddos", "vulnerability", "injection", "backdoor", "keylogger", "trojan", "spyware", "phishing", "jailbreak", "security", "network", "connection"],
+"ftp_daemon": [
+    {"rows": 5, "columns": 7, "source": 3, "destination": 1, "content": [
+        [5,4,2,3,0,5,1],
+        [0,3,4,1,2,2,0],
+        [4,1,3,2,3,1,3],
+        [0,4,3,1,1,1,5],
+        [0,2,1,3,0,3,0]
+    ]},
+    {"rows": 6, "columns": 8, "source": 1, "destination": 2, "content": [
+        [2,1,0,2,1,5,4,5],
+        [3,2,0,3,5,0,0,1],
+        [0,1,5,1,2,4,3,3],
+        [4,3,2,4,0,1,5,0],
+        [1,5,3,0,1,2,2,1],
+        [5,5,0,1,3,5,1,2]
+    ]},
+    {"rows": 7, "columns": 8, "source": 3, "destination": 3, "content": [
+        [1,0,4,2,3,2,1,4,2],
+        [1,4,0,5,1,5,0,3,0],
+        [3,1,5,1,0,4,3,1,5],
+        [1,3,4,3,5,2,0,3,0],
+        [4,1,0,1,3,0,4,1,4],
+        [3,2,5,0,2,1,4,2,1],
+        [2,5,0,3,1,2,0,3,5]
+    ]},
+    {"rows": 8, "columns": 10, "source": 0, "destination": 0, "content": [
+        [3,4,1,2,3,2,1,0,4,2],
+        [0,2,2,1,3,4,0,5,3,5],
+        [1,5,1,0,5,1,3,1,5,0],
+        [4,5,5,3,5,4,0,1,1,3],
+        [0,2,2,3,3,2,3,5,5,2],
+        [0,5,3,5,2,0,0,4,3,4],
+        [2,1,0,1,1,3,2,1,2,4],
+        [4,5,5,4,2,3,0,3,1,5]
+    ]},
+    {"rows": 9, "columns": 11, "source": 0, "destination": 8, "content": [
+        [3,4,1,0,2,0,2,1,2,3,1],
+        [1,0,5,5,3,2,3,0,5,5,1],
+        [3,4,1,1,3,4,1,3,3,3,0],
+        [5,3,0,5,2,3,1,1,3,4,3],
+        [4,0,3,5,4,1,3,0,5,3,2],
+        [3,1,0,0,1,3,1,5,1,3,1],
+        [3,0,1,4,3,1,4,3,5,2,3],
+        [2,1,2,1,5,0,5,3,1,2,0],
+        [5,5,1,4,2,4,1,0,4,5,2]
+    ]}
+],
+"xss_mazes": [
+    {"ends": ["21","04"],
+    "correct": ["22","12","02","03"],
+    "possible":[
+        ["31"],
+        ["22","12","02","01","00"],
+        ["22","12","11","10","20","30","40","50","51","52","53","54"],
+        ["22","12","11","10","20","30","40","50","51","52","53","43"],
+        ["22","12","11","10","20","30","40","41","42","32","33","23","24","25","35","34","44","45","55"],
+        ["05","15","14","13"]
+    ]},
+    {"ends": ["01","52"],
+    "correct": ["00","10","20","21","11","12","22","23","33","32","42"],
+    "possible": [
+        ["02","03","04","05","15"],
+        ["02","03","04","14","24","25","35","34","44"],
+        ["00","10","20","21","11","12","22","23","13"],
+        ["51","41","31","30","40","50"],
+        ["53","43"],
+        ["53","54","55","45"]
+    ]},
+    {"ends": ["33","14"],
+    "correct": ["13","12","02","01","11","21","31","41","42","43"],
+    "possible": [
+        ["04","05","15"],
+        ["13","03"],
+        ["13","12","22"],
+        ["13","12","02","01","11","21","31","30","20","10","00"],
+        ["13","12","02","01","11","21","31","41","51","50","40"],
+        ["13","12","02","01","11","21","31","41","51","52","53","54","55"],
+        ["13","12","02","01","11","21","31","41","51","52","53","54","44","34","24","23"],
+        ["13","12","02","01","11","21","31","41","51","52","53","54","44","45","35","25"],
+        ["32"]
+    ]}
+]
+}

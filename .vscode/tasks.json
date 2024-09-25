@@ -1,0 +1,18 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Zabalit PyInstallerem",
+            "command": "python",
+            "type": "shell",
+            "args": ["pyinstaller/release.py"],
+            "presentation": {
+                "reveal": "always",
+                "revealProblems": "onProblem",
+                "showReuseMessage": false,
+                "panel": "dedicated"
+            },
+            "group": "build"
+        }
+    ]
+}
